@@ -7,7 +7,7 @@ To use hashimXSS, ensure You are at
 `http://localhost/`
 Then,simply run this command in your terminal:
 ```
-$ git clone https://github.com/mrhashimamin/hashimXSS.git
+git clone https://github.com/mrhashimamin/hashimXSS.git
 ```
 This will clone the hashimXSS repository to your local machine.
 
@@ -17,4 +17,4 @@ This will clone the hashimXSS repository to your local machine.
 ![](https://github.com/mrhashimamin/hashimXSS/blob/main/19view.png?raw=true)
 
 # Solutions
-To view the challenge solutions, please visit the following link: [Solutions](https://medium.com/@hashimamin/hashimxss-239f6aa798e6){:target="_blank"}
+To view the challenge solutions, please visit the following link: [Solutions](https://medium.com/@hashimamin/hashimxss-239f6aa798e6)
